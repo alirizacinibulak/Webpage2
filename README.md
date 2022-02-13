@@ -23,3 +23,7 @@ Merhaba, Ben Ali Rıza. İstanbul'da yaşıyorum. Spor yapmayı ve dizi/film izl
 Basketbol ya da Sepettopu, elle idare edilen bir topla oynanan popüler bir takım oyunu ve spor dalı. 
 
 Profesyonel basketbolda beşer kişilik iki takım, yerden yüksekliği Avrupa standartlarına göre 3,05 metre olan ve pota adı verilen, yere paralel konumdaki bir çemberden topu geçirerek, rakibinden daha fazla sayı yapmak suretiyle, on ikişer, onar veya sekizer dakikalık dört periyottan oluşan maçı kazanmaya çalışır.
+
+### LICENCE
+
+[MIT](https://github.com/alirizacinibulak/Webpage2/blob/main/LICENSE)
